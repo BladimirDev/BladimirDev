@@ -1,5 +1,5 @@
 ## Hey, I'm Bladimir
-
+I'm a software engineering student and I'm passionate about challenges. I constantly want to learn and improve every second. The technology field demands constant learning and self-improvement, requiring me to learn new technologies daily and stay updated with the latest market creations and innovations. I tend to be a sociable person, willing to accept my mistakes, and I like to help people whenever I can. I don't consider myself a beginner or a professional; there are many things I still don't know, but I also have a great desire to learn.
 <!--
 **BladimirDev/BladimirDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
